@@ -1,0 +1,13 @@
+#program to create a calculator
+a=float(input("enter 1st number"))
+b=float(input("enter 2nd number"))
+sum=a+b
+difference=a-b
+product=a*b
+division=a/b
+remainder=a%b
+print(sum)
+print(difference)
+print(product)
+print(division)
+print(remainder
